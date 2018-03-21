@@ -1,0 +1,6 @@
+framework module Pods_MoodLogTests {
+  umbrella header "Pods-MoodLogTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
